@@ -58,7 +58,7 @@ import (
 	"strings"
 
 	"github.com/Masterminds/semver"
-	"github.com/jason0x43/go-alfred"
+	"github.com/takanabe/go-alfred"
 )
 
 var workflowName string
